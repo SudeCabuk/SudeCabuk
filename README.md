@@ -23,18 +23,21 @@
 
 
 
-## ⚡ GitHub Stats:
+<details>
+  <summary>⚡ GitHub Stats</summary>
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SudeCabuk&show_icons=true&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SudeCabuk&show_icons=true&theme=radical)
-
----
-
-## ⚡ Top Languages:
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SudeCabuk&layout=compact&theme=radical)
+</details>
 
 ---
 
+<details>
+  <summary>⚡ Top Languages</summary>
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SudeCabuk&layout=compact&theme=radical)
+
+</details>
 ## 🏆 GitHub Profile Trophy:
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SudeCabuk&theme=radical&margin-w=15&margin-h=15)
