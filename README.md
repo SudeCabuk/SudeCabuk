@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning Back-end development with **Spring Boot** and **Node.js**....
 - 👯 I’m looking to collaborate on Full-stack projects, especially in back-end and database management.
 - 📫 How to reach me: cabuksudeeda@gmail.com
-- 📄 LinkedIn: [Linkedin](https://linkedin.com/in/sudecabuk)
 - ⚡ Fun fact: I enjoy cooking and experimenting with new recipes when I’m not coding!
 
 ### Languages and Tools:
