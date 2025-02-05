@@ -19,7 +19,7 @@
 
 ### 🌐 Connect with me:
 <p align="left">
-  <a href="https://instagram.com/sudecabukk" target="_blank">
+  <a href="https://instagram.com/sudecabukk" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://linkedin.com/in/sudecabuk" target="_blank">
