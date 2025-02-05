@@ -37,7 +37,4 @@
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SudeCabuk&layout=compact&theme=radical)
 
 </details>
-## 🏆 GitHub Profile Trophy:
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SudeCabuk&theme=radical&margin-w=15&margin-h=15)
 
