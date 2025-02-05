@@ -20,3 +20,22 @@
 ### 🌐 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sudecabukk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sudecabuk)
+
+
+
+## ⚡ GitHub Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SudeCabuk&show_icons=true&theme=radical)
+
+---
+
+## ⚡ Top Languages:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SudeCabuk&layout=compact&theme=radical)
+
+---
+
+## 🏆 GitHub Profile Trophy:
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SudeCabuk&theme=radical&margin-w=15&margin-h=15)
+
